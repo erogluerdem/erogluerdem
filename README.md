@@ -4,7 +4,7 @@
 ### Full-Stack Developer & Enterprise Solutions Architect
 
 [![Website](https://img.shields.io/badge/Website-erdemeroglu.com.tr-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://erdemeroglu.com.tr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erdem_Eroğlu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erdem_Eroğlu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erdemeroglu)
 [![Email](https://img.shields.io/badge/Email-dev@erdemeroglu.com.tr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@erdemeroglu.com.tr)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-İletişime_Geç-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905325503851)
 
