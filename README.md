@@ -193,38 +193,15 @@ Aşağıdaki şema, geliştirdiğim kurumsal platformlarda verinin istemciden ge
 ### 📊 Canlı GitHub İstatistikleri
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=erogluerdem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="Erdem's GitHub Stats" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erogluerdem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=erogluerdem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="175" alt="Erdem's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erogluerdem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="175" alt="Top Languages" />
+</div>
 
-  <br/>
+<br/>
 
-  <!-- STREAK STATS -->
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erogluerdem&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8" alt="GitHub Streak" width="85%" />
-
-</div>
-
----
-
-### 🏆 GitHub Başarıları & Kupalar
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=erogluerdem&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-### 🐍 Katkı Izgarası (Contribution Activity)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/erogluerdem/erogluerdem/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" onerror="this.style.display='none'" />
 </div>
 
 ---
